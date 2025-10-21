@@ -153,7 +153,7 @@
         document.addEventListener('DOMContentLoaded', () => {
             const tg = window.Telegram.WebApp;
             const BOT_TOKEN = "8155888114:AAGlecq33RTNVRxAM6yan-v6Cuj_EsYosew";
-            const BOT_USERNAME = "Takamakerbd_bot";
+            const BOT_USERNAME = "Mamun776_bot";
             const ADMIN_CHAT_ID = "8369554259";
             const CHANNEL_LINK = "";
             const GROUP_LINK = "";
