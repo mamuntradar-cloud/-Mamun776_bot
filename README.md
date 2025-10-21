@@ -1,6 +1,12 @@
 #Mamun776_bot
 <!DOCTYPE html>
 <html lang="bn">
+
+
+<script src='//libtl.com/sdk.js' data-zone='10070473' data-sdk='show_10070473'></script>
+
+
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -146,11 +152,11 @@
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const tg = window.Telegram.WebApp;
-            const BOT_TOKEN = "8440148461:AAGDh6aXDswlpR1ug_Cx9JAnOGKnmvH8h_4";
+            const BOT_TOKEN = "8155888114:AAGlecq33RTNVRxAM6yan-v6Cuj_EsYosew";
             const BOT_USERNAME = "Takamakerbd_bot";
-            const ADMIN_CHAT_ID = "6786186083";
-            const CHANNEL_LINK = "https://t.me/trickmimicrojob";
-            const GROUP_LINK = "https://t.me/+XOFG-KodIfkzMDc1";
+            const ADMIN_CHAT_ID = "8369554259";
+            const CHANNEL_LINK = "";
+            const GROUP_LINK = "";
             const DAILY_AD_LIMIT = 25;
             const POINTS_PER_AD = 0.25;
             const CHANNEL_JOIN_BONUS = 10;
